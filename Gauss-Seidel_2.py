@@ -139,4 +139,4 @@ if __name__ == "__main__":
         print(f"Bus {i+1}: |V|={abs(v):.4f} ∠ {np.angle(v, deg=True):.2f}°")
 
     print(f"\nIteraciones: {n_iter}, Convergió: {conv}")
-    print("SIUUUUUUUU")
+    print("Silent Hill > Resident Evil")
